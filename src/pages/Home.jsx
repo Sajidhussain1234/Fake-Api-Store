@@ -5,10 +5,8 @@ import ControleArea from '../components/ControleArea';
 const Home = () => {
   return (
     <>
-    <Navebar/>
-    <div className=""> 
-    <ControleArea/>
-    </div>
+      <Navebar />
+      <ControleArea />
     </>
   )
 }
